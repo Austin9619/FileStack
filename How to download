@@ -1,0 +1,36 @@
+# How to Download and Run FileStack
+
+Follow these steps to get FileStack running on your Windows computer:
+
+---
+
+## 1. Download the Release
+
+1. Go to the [Releases page](https://github.com/Austin9619/FileStack/releases) of this repository.  
+2. Find the latest release (e.g., `v1.0`).  
+3. Download the ZIP file attached to the release (e.g., `FileStack V1.0.0.zip`).
+
+---
+
+## 2. Extract the ZIP
+
+1. Right-click the downloaded ZIP file.  
+2. Choose **Extract All…** or use your unzipping tool.  
+3. Select a location to extract to (e.g., Desktop or Documents).
+
+> Make sure all files remain together in the same folder.
+
+---
+
+## 3. Run FileStack
+
+1. Open the folder where you extracted the files.  
+2. Double-click **`FileStack.exe`** to launch the program.  
+
+---
+
+## 4. Using FileStack
+
+1. Click **Select Folder** to choose the folder you want to organize.  
+2. Click **Sort**.  
+3. A new folder will appear on your desktop containing the organized files.  
